@@ -1,6 +1,6 @@
 import { Accordion, AccordionDetails, AccordionSummary, Button, Grid } from "@mui/material";
 import Container from "../components/Container";
-import { Card } from "../components/Card";
+import Card from "../components/Card";
 import { useStore } from "../store/Store";
 import { styled } from "styled-components";
 import SearchIcon from "../assets/icons/SearchIcon";
